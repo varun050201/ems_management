@@ -1,0 +1,21 @@
+.nav-link {
+    color: #ffffff; /* White color for links */
+    font-weight: bold; /* Make the links bold */
+    transition: color 0.3s; /* Smooth color transition */
+}
+
+.nav-link:hover {
+    color: #ffd700; /* Gold color on hover */
+}
+
+.navbar {
+    padding: 1rem; /* Add some padding */
+}
+
+.navbar-brand {
+    font-size: 1.5rem; /* Increase font size for the brand */
+}
+
+.container {
+    max-width: 1200px; /* Set max width for the container */
+}

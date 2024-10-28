@@ -1,0 +1,21 @@
+/* UpdateUser.css */
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.mt-5 {
+    margin-top: 3rem !important; /* Adds margin on top */
+}
+
+h1 {
+    margin-bottom: 2rem; /* Space below the heading */
+}
+
+.form-control {
+    margin-bottom: 1rem; /* Space between form controls */
+}
+
+.btn-primary {
+    margin-top: 1rem; /* Space above the button */
+    width: 100%; /* Full-width button */
+}
